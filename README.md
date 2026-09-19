@@ -108,7 +108,7 @@ npm install
 Create a `.env.local` file:
 
 ```env
-VITE_OMDB_API_KEY=your_actual_key_here
+VITE_OMDB_API_KEY= 5297052f
 ```
 
 Start the application:
@@ -133,16 +133,16 @@ npm run preview
 ## 📸 Screenshots
 
 
-![Search Results](images:screenshots/search-results.png)
+![Search Results](screenshots/search-results.png)
 
 
-![Movie Details](images:screenshots/movie-details.png)
+![Movie Details](screenshots/movie-details.png)
 
 
-![Favourites](images:screenshots/favourites.png)
+![Favourites](screenshots/favourites.png)
 
 
-![Mobile View](images:screenshots/mobile-layout.png)
+![Mobile View](screenshots/mobile-layout.png)
 
 ---
 
