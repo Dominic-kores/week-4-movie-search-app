@@ -1,0 +1,7 @@
+<svg xmlns="images:screenshots/favicon.png" viewBox="0 0 32 32">
+  <!-- Draw the dark background. -->
+  <rect width="32" height="32" rx="7" fill="#0f172a" />
+
+  <!-- Draw the yellow play button. -->
+  <path d="M12 8 L25 16 L12 24 Z" fill="#fbbf24" />
+</svg>
